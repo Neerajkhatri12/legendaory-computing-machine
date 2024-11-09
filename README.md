@@ -10,9 +10,12 @@ steps to create a new branch:
 1. check which branches are present:
     git branch
 2. creatings new branch:
-git checjout -b name of_branch
+git checkout -b name of_branch
 
 3. when pushing to a new branch write:
 git push origin name_of_branch
+
+# hello
+
 
 
